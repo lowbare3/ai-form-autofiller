@@ -1,0 +1,18 @@
+.ai-btn{
+
+margin-left:8px;
+padding:4px 8px;
+font-size:12px;
+background:#1a73e8;
+color:white;
+border:none;
+border-radius:4px;
+cursor:pointer;
+
+}
+
+.ai-btn:hover{
+
+background:#0f5bd3;
+
+}
